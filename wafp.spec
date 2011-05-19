@@ -2,7 +2,7 @@
 
 Name:		wafp
 Version:	0.01
-Release:	%mkrel 0.%{snapshot}.2
+Release:	%mkrel 0.%{snapshot}.3
 Summary:	Web Application Finger Printer
 License:	GPL
 Group:		Networking/Other
