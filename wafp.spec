@@ -2,10 +2,10 @@
 
 Name:		wafp
 Version:	0.01
-Release:	%mkrel 0.%{snapshot}.3
+Release:	%mkrel 0.%{snapshot}.4
 Summary:	Web Application Finger Printer
 License:	GPL
-Group:		Networking/Other
+Group:		Monitoring
 URL:		http://www.mytty.org/wafp/
 Source:     http://www.mytty.org/wafp/%{name}-%{version}-%{snapshot}.tar.bz2
 Patch0:     wafp-0.01-26c3-fhs.patch
