@@ -42,3 +42,22 @@ rm -rf %{buildroot}
 %doc LICENSE README CREDITS HOWTO
 %{_bindir}/wafp.rb
 %{_datadir}/wafp
+
+
+%changelog
+* Thu Jul 07 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.01-0.26c3.4mdv2011
++ Revision: 689090
+- switch group to monitoring, as other security-related tools
+
+* Thu May 19 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.01-0.26c3.3
++ Revision: 676144
+- more complete FHS patch
+
+* Wed May 18 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.01-0.26c3.2
++ Revision: 676083
+- fix data files location
+
+* Wed May 18 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.01-0.26c3.1
++ Revision: 676001
+- import wafp
+
